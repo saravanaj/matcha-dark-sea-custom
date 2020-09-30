@@ -417,6 +417,14 @@ button:active, button:checked {
   transition-duration: 50ms;
 }
 
+.panel button:active, .panel button:checked, .mate-panel button:active, .mate-panel button:checked, #tasklist-button:active, #tasklist-button:checked  {
+  background-color: #1b2224;
+  border-bottom: 2px solid #0e7065;
+  border-right: none;
+  border-top: none;
+  border-left: none;
+}
+
 button:active:not(:disabled) label:disabled, button:checked:not(:disabled) label:disabled {
   color: inherit;
   opacity: 0.6;
