@@ -169,7 +169,7 @@ popover.background.osd,
 popover.background.magnifier, .csd popover.background.osd, .csd popover.background.magnifier, .osd .scale-popup, .osd {
   color: #c6cdcb;
   border: none;
-  background-color: rgba(37, 45, 48, 0.95);
+  background-color: rgba(14, 112, 101, 0.20);
   background-clip: padding-box;
   box-shadow: none;
 }
